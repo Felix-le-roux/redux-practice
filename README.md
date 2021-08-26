@@ -1,1 +1,1 @@
-"# redux-practice" 
+# redux-practice
